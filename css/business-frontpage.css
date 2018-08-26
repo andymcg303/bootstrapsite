@@ -7,10 +7,12 @@
 body {
   padding-top: 54px;
   background-color: #4f4f4f;
+  font-family: "Trebuchet MS";
+  color: white;
 }
 
-.navbar {
-  color: #4f4f4f;
+#phone-num{
+  color: #fc8e0b;
 }
 
 @media (min-width: 992px) {
